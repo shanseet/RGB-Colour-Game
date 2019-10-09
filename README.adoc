@@ -1,0 +1,6 @@
+= A Great RGB Colour Game
+
+This was my first ever project using JavaScript. I enrolled in an online web development course during summer 2019, learning the 
+basics of HTML/CSS/JS under the guidance of Colt Steele.
+
+Enjoy the game!
