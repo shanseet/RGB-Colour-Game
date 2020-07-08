@@ -1,6 +1,6 @@
 = A Fun RGB Colour Game
 
-https://shanseet.github.io/rgb-colour-game/[Play here]
+https://shanseet.github.io/RGB-Colour-Game/[Play here]
 
 My first project using JavaScript.
 Made in summer 2019, following along Colt Steele's Web Dev Bootcamp.
