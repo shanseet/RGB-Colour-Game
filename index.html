@@ -1,25 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Color Game</title>
-    <link rel="stylesheet" href="color-game.css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="color-game.css">
 </head>
+
 <body>
     <div id="header">
-        <h2>A great</h2>
+        <h2>Guess the color!</h2>
         <h1>RGB(0, 0, 0)</h1>
-        <h2>color game</h2>
     </div>
 
     <div id="navbar">
-        <div id="replay">NEW GAME</div>
-        <span id="retry" class="hide">Try Again</span>
-        <div id="easyselect">EASY</div>
-        <div id="hardselect" class="selected">HARD</div>
+        <div class="navbar-container">
+            <div id="replay">NEW GAME</div>
+            <span id="retry" class="hide">Try Again</span>
+            <div id="easyselect">EASY</div>
+            <div id="hardselect" class="selected">HARD</div>
+        </div>
     </div>
 
     <div id="container">
@@ -33,8 +36,9 @@
         <div class="square"></div>
         <div class="square"></div>
     </div>
-    
+
 
     <script src="color-game.js"></script>
 </body>
+
 </html>
