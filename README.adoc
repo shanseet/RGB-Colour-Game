@@ -1,6 +1,8 @@
-= A Great RGB Colour Game
+= A Fun RGB Colour Game
 
-This was my first ever project using JavaScript. I enrolled in an online web development course during summer 2019, learning the 
-basics of HTML/CSS/JS under the guidance of Colt Steele.
+https://shanseet.github.io/rgb-colour-game/[Play here]
 
-Enjoy the game!
+My first project using JavaScript.
+Made in summer 2019, following along Colt Steele's Web Dev Bootcamp.
+
+Enjoy!
